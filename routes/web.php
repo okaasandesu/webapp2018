@@ -60,7 +60,7 @@ Route::get("/params_test",function(){
 /*tasklistの機能*/
 
 Route::get("/tasklist",function(){
-    $tasks = DB::select("select * from tasks");
+    $tasks = DB::select("select * from tasks order by date asc");
     $tasks2 = DB::select("select * from tasks2");
     $tasks3 = DB::select("select * from tasks3");
     $searchKey = request()->get("searchkey");
@@ -82,6 +82,34 @@ Route::get("/tasksort",function(){
     $tasks = DB::select("select * from tasks order by size desc");
     $tasks2 = DB::select("select * from tasks2");
     $tasks3 = DB::select("select * from tasks3");
+    $tasks4 = DB::select("select * from tasks4");
+    return view("tasklist", [
+        "tasks" => $tasks,
+        "tasks2" => $tasks2,
+        "tasks3" => $tasks3,
+        "tasks4" => $tasks4
+
+    ]);
+});
+
+Route::get("/tasksort2",function(){
+    $tasks = DB::select("select * from tasks ");
+    $tasks2 = DB::select("select * from tasks2 order by size desc");
+    $tasks3 = DB::select("select * from tasks3");
+    $tasks4 = DB::select("select * from tasks4");
+    return view("tasklist", [
+        "tasks" => $tasks,
+        "tasks2" => $tasks2,
+        "tasks3" => $tasks3,
+        "tasks4" => $tasks4
+
+    ]);
+});
+
+Route::get("/tasksort3",function(){
+    $tasks = DB::select("select * from tasks ");
+    $tasks2 = DB::select("select * from tasks2 ");
+    $tasks3 = DB::select("select * from tasks3 order by size desc");
     $tasks4 = DB::select("select * from tasks4");
     return view("tasklist", [
         "tasks" => $tasks,

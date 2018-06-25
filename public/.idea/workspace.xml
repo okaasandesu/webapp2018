@@ -14,17 +14,35 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="3775" column="23" selection-start-line="3775" selection-start-column="23" selection-end-line="3775" selection-end-column="23" />
+            <state relative-caret-position="3674">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_05_14_050203_todo.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tasklist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../resources/views/tasklist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2112">
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_05_14_050203_todo.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../database/migrations/2018_05_14_050203_todo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+            <state relative-caret-position="352">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -38,24 +56,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="694">
-              <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tasklist.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../resources/views/tasklist.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -63,17 +63,30 @@
       <find>bg.jpg</find>
       <find>header</find>
       <find>image</find>
-      <find>one</find>
-      <find>row</find>
       <find>table</find>
       <find>th</find>
       <find>thre</find>
       <find>thead</find>
       <find>slider07</find>
-      <find>body</find>
       <find>h2-sample</find>
       <find>input...................................................</find>
       <find>input</find>
+      <find>main</find>
+      <find>min-width</find>
+      <find>background-image</find>
+      <find>body</find>
+      <find>@media</find>
+      <find>1800</find>
+      <find>form</find>
+      <find>one</find>
+      <find>major</find>
+      <find>actions</find>
+      <find>row</find>
+      <find>work-item</find>
+      <find>hr</find>
+      <find>31</find>
+      <find>Grid</find>
+      <find>6u</find>
     </findStrings>
     <replaceStrings>
       <replace>slider06</replace>
@@ -87,8 +100,8 @@
         <option value="$PROJECT_DIR$/../database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/../database/migrations/2018_05_14_050203_todo.php" />
         <option value="$PROJECT_DIR$/../routes/web.php" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/../resources/views/tasklist.php" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -104,9 +117,9 @@
       <path value="$PROJECT_DIR$/../package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="556" />
-    <option name="width" value="993" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="949" />
+    <option name="width" value="978" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -229,25 +242,30 @@
       <workItem from="1527479341809" duration="11558000" />
       <workItem from="1528083939129" duration="12389000" />
       <workItem from="1528690412158" duration="10367000" />
+      <workItem from="1528847757912" duration="1210000" />
+      <workItem from="1528851699545" duration="2320000" />
+      <workItem from="1529899660012" duration="8401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65634000" />
+    <option name="totallyTimeSpent" value="77565000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="556" y="0" width="993" height="1047" extended-state="0" />
+    <frame x="949" y="0" width="978" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16008316" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,7 +274,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,6 +587,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3674">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../resources/views/tasklist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -577,31 +608,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../database/migrations/2018_05_14_050203_todo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
+        <state relative-caret-position="-2112">
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/../database/migrations/2018_05_14_050203_todo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="3775" column="23" selection-start-line="3775" selection-start-column="23" selection-end-line="3775" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../resources/views/tasklist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+        <state relative-caret-position="352">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
