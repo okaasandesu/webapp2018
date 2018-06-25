@@ -2235,7 +2235,6 @@ tr:nth-child(even) {
 	clear: both;
 }
 
-
 @media screen and (min-width: 630px) {
 	.sizesort input[type="submit"] {
 		margin: 0;

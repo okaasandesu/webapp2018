@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3674">
-              <caret line="167" selection-start-line="167" selection-end-line="167" />
+            <state relative-caret-position="574">
+              <caret line="2236" lean-forward="true" selection-start-line="2236" selection-end-line="2236" />
             </state>
           </provider>
         </entry>
@@ -38,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_05_14_050203_todo.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018_05_14_050203_todo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../database/migrations/2018_05_14_050203_todo.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -117,7 +117,7 @@
       <path value="$PROJECT_DIR$/../package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="949" />
     <option name="width" value="978" />
     <option name="height" value="1047" />
@@ -244,12 +244,12 @@
       <workItem from="1528690412158" duration="10367000" />
       <workItem from="1528847757912" duration="1210000" />
       <workItem from="1528851699545" duration="2320000" />
-      <workItem from="1529899660012" duration="8401000" />
+      <workItem from="1529899660012" duration="9013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77565000" />
+    <option name="totallyTimeSpent" value="78177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="949" y="0" width="978" height="1047" extended-state="0" />
@@ -587,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3674">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../resources/views/tasklist.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -619,6 +612,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="2236" lean-forward="true" selection-start-line="2236" selection-end-line="2236" />
         </state>
       </provider>
     </entry>
