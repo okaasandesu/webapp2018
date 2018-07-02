@@ -15,7 +15,6 @@ class Todo extends Migration
         //テーブル作成
         Schema::create('tasks', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
             $table->date('date');
             $table->string('place');
             $table->integer('size');
@@ -27,7 +26,6 @@ class Todo extends Migration
 
         Schema::create('tasks2', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
             $table->date('date');
             $table->string('place');
             $table->integer('size');
@@ -37,7 +35,6 @@ class Todo extends Migration
 
         Schema::create('tasks3', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
             $table->date('date');
             $table->string('place');
             $table->integer('size');
@@ -47,7 +44,6 @@ class Todo extends Migration
         Schema::create('tasks4', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');
-            $table->date('date');
             $table->string('place');
             $table->integer('size');
             $table->boolean('is_finished')->default(false);
