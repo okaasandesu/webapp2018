@@ -9,16 +9,16 @@
     <title>Strata by HTML5 UP</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="\assets\js\ie\._html5shiv.js"></script><![endif]-->
-     <link rel="stylesheet" href="\assets\css\main.css" />
-    <!--[if lte IE 8]><link rel="stylesheet" href="\assets\css\._ie8.css" /><![endif]-->
+    <!--[if lte IE 8]><script src="/assets/js/ie/._html5shiv.js"></script><![endif]-->
+     <link rel="stylesheet" href="/assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/._ie8.css" /><![endif]-->
 </head>
 <body id="top">
 
 <!-- Header -->
 <header id="header">
     <div class="inner">
-        <a href="#" class="image avatar"><img src="\images\images.jfif" alt="" /></a>
+        <a href="#" class="image avatar"><img src="/images/images.jfif" alt="" /></a>
         <h1><strong>OIC釣り部</strong><br/>会員番号：2C04SN
             </h1>
     </div>
@@ -37,7 +37,7 @@
                 <div id="manual-slider07-overflow">
                     <div class="inner">
                         <div class="slide">
-                            <img src="\images\karei.jpg" alt="img">
+                            <img src="/images/karei.jpg" alt="img">
                             <h3 class="h3-tit">カレイ</h3>
                             <div class="asdf">
                                 <form action="/task" method="POST">
@@ -92,7 +92,7 @@
                             </table>
                         </div>
                         <div class="slide">
-                            <img src="\images\tinu.jpg" alt="img">
+                            <img src="/images/tinu.jpg" alt="img">
                             <h3 class="h3-tit">チヌ</h3>
                             <div class="asdf">
                                 <form action="/task2" method="POST">
@@ -144,7 +144,7 @@
                             </table>
                         </div>
                         <div class="slide">
-                            <img src="\images\mahata.jpg" alt="img">
+                            <img src="/images/mahata.jpg" alt="img">
                             <h3 class="h3-tit">マハタ</h3>
                             <div class="asdf">
                                 <form action="/task3" method="POST">
@@ -225,7 +225,7 @@
                 <div id="manual-slider07-overflow">
                     <div class="inner">
                         <div class="slide">
-                            <img src="\images\tyouka1.jpg" alt="img">
+                            <img src="/images/tyouka1.jpg" alt="img">
                             <h3 class="h3-tit">2018/6/30</h3>
                             <div class="asdf">
                                 <form action="/task4" method="POST">
